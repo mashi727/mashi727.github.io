@@ -1,11 +1,11 @@
 ---
-title: サポート｜モザイク
+title: サポート｜MosaicEditor（モザイク）
 permalink: /mosaic/support/
 ---
 
-# サポート
+# サポート：MosaicEditor（モザイク）
 
-iPhone アプリ「モザイク」のサポートページです。
+iPhone アプリ「MosaicEditor」（ホーム画面の表示名「モザイク」）のサポートページです。
 
 ## お問い合わせ
 

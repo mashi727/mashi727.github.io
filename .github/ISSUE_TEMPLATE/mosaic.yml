@@ -1,6 +1,6 @@
-name: "モザイク：お問い合わせ"
-description: iPhone アプリ「モザイク」の不具合報告・ご質問
-title: "[モザイク] "
+name: "MosaicEditor（モザイク）：お問い合わせ"
+description: iPhone アプリ「MosaicEditor」（モザイク）の不具合報告・ご質問
+title: "[MosaicEditor] "
 labels: ["mosaic"]
 body:
   - type: markdown
