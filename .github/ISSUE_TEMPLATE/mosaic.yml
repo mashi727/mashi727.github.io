@@ -1,0 +1,37 @@
+name: "モザイク：お問い合わせ"
+description: iPhone アプリ「モザイク」の不具合報告・ご質問
+title: "[モザイク] "
+labels: ["mosaic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        この内容は**誰でも見られる状態で公開されます**。氏名・住所・電話番号などの個人情報や、他人が写った写真は書き込まないでください。
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 種類
+      options:
+        - 不具合の報告
+        - 使い方の質問
+        - 要望
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 内容
+      description: 何をしたときに、どうなったか。期待していた動作も書いてください。
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 機種と iOS のバージョン
+      placeholder: 例）iPhone 16 / iOS 26.1
+  - type: input
+    id: version
+    attributes:
+      label: アプリのバージョン
+      description: App Store のアプリのページで確認できます。
+      placeholder: 例）1.0
