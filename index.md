@@ -8,7 +8,7 @@ title: Massy's Apps
 
 | アプリ | 内容 | |
 | --- | --- | --- |
-| [MosaicEditor（モザイク）](mosaic/) | 写真の一部を、指で選んでモザイク・ぼかしで隠す | [サポート](mosaic/support/) ・ [プライバシーポリシー](mosaic/privacy/) |
+| [MosaicEditor（モザイク）](mosaic/) | 写真の一部を、指で選んでモザイク・ぼかし・塗りつぶしで隠す | [サポート](mosaic/support/) ・ [プライバシーポリシー](mosaic/privacy/) |
 
 ## お問い合わせ
 
