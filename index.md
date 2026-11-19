@@ -9,6 +9,7 @@ title: Massy's Apps
 | アプリ | 内容 | |
 | --- | --- | --- |
 | [MosaicEditor（モザイク）](mosaic/) | 写真の一部を、指で選んでモザイク・ぼかし・塗りつぶしで隠す | [サポート](mosaic/support/) ・ [プライバシーポリシー](mosaic/privacy/) |
+| [PerspectiveCorrector（台形補正）](perspective/) | 学会や会議で撮ったスライドの写真をまとめてまっすぐに補正し、報告書に使える形に整える | [サポート](perspective/support/) ・ [プライバシーポリシー](perspective/privacy/) |
 
 ## お問い合わせ
 

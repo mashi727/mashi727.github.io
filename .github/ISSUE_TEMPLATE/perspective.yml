@@ -1,0 +1,37 @@
+name: "PerspectiveCorrector（台形補正）：お問い合わせ"
+description: iPhone アプリ「PerspectiveCorrector」（台形補正）の不具合報告・ご質問 / Bug reports and questions
+title: "[PerspectiveCorrector] "
+labels: ["perspective"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        この内容は**誰でも見られる状態で公開されます**。氏名・住所・電話番号などの個人情報や、スライドの写真・発表の資料は書き込まないでください。
+        This is **public**. Do not post personal information, slide photos, or presentation materials.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 種類 / Type
+      options:
+        - 不具合の報告 / Bug report
+        - 使い方の質問 / Question
+        - 要望 / Feature request
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 内容 / Details
+      description: 何をしたときに、どうなったか。期待していた動作も書いてください。 / What you did, what happened, and what you expected.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 機種と iOS のバージョン / Device and iOS version
+      placeholder: 例）iPhone 16 / iOS 26.1
+  - type: input
+    id: version
+    attributes:
+      label: アプリのバージョン / App version
+      placeholder: 例）1.0
