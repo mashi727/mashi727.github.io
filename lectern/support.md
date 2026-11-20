@@ -1,19 +1,19 @@
 ---
-title: サポート｜PerspectiveCorrector（台形補正）
-permalink: /perspective/support/
+title: サポート｜Lectern
+permalink: /lectern/support/
 ---
 
-# サポート：PerspectiveCorrector（台形補正）
+# サポート：Lectern
 
-iPhone アプリ「PerspectiveCorrector」（ホーム画面の表示名「台形補正」）のサポートページです。
+iPhone アプリ「Lectern」のサポートページです。
 
-[English below](#support-perspectivecorrector)
+[English below](#support-lectern)
 
 ## お問い合わせ
 
 不具合の報告やご質問は、GitHub の Issues で受け付けています。
 
-**[お問い合わせを書く（GitHub Issues）](https://github.com/mashi727/mashi727.github.io/issues/new?template=perspective.yml)**
+**[お問い合わせを書く（GitHub Issues）](https://github.com/mashi727/mashi727.github.io/issues/new?template=lectern.yml)**
 
 - 書き込みには GitHub のアカウント（無料）が必要です。
 - Issues の内容は誰でも見られます。**氏名・住所・電話番号などの個人情報や、スライドの写真・発表の資料は書き込まないでください。**
@@ -61,13 +61,13 @@ iPhone（iOS 17 以降）
 
 ---
 
-## Support: PerspectiveCorrector
+## Support: Lectern
 
-This is the support page for the iPhone app "PerspectiveCorrector" (shown on the Home Screen as "Perspective").
+This is the support page for the iPhone app "Lectern".
 
 ### Contact
 
-Please report bugs or ask questions on GitHub Issues: **[Open an issue](https://github.com/mashi727/mashi727.github.io/issues/new?template=perspective.yml)**.
+Please report bugs or ask questions on GitHub Issues: **[Open an issue](https://github.com/mashi727/mashi727.github.io/issues/new?template=lectern.yml)**.
 Issues are public. **Do not post personal information, slide photos, or presentation materials.**
 
 ### FAQ
